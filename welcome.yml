@@ -1,18 +1,20 @@
+msg: Welcome to Hyderabad..
+
 #server:
 #  port: 8081  
   
-spring:
-  application:
-    name: Welcome-Service
+#spring:
+  #application:
+    #name: Welcome-Service
     
-  boot:
-    admin:
-      client:
-        url: http://localhost:1111/
+  #boot:
+    #admin:
+      #client:
+        #url: http://localhost:1111/
         
-management:
-  endpoints:
-    web:
-      exposure:
-        include: '*'        
+#management:
+  #endpoints:
+    #web:
+      #exposure:
+        #include: '*'        
     
