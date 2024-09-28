@@ -1,3 +1,5 @@
+msg: Good morning..
+
 spring:
   application:
     name: Greet-Service
